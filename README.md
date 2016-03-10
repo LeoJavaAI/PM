@@ -1,5 +1,5 @@
 
-## Design
+## Product Design
 
 [8 Web Design principles you should know](http://conversionxl.com/8-universal-web-design-principles-you-should-to-know/)
 
