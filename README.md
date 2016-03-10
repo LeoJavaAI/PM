@@ -1,5 +1,3 @@
-## List of Tutorials/Guides and Articles on Product Management
-
 
 [The Prototype Mindset](https://medium.com/galleys/the-prototype-mindset-396c979a356f#.ob43lidrq)
 
