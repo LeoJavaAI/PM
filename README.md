@@ -1,6 +1,10 @@
 
 ## Product Design
 
+### Guides
+
+[Design Thinking with Justin Ferell](https://www.youtube.com/watch?v=Z4gAugRGpeY)
+
 [8 Web Design principles you should know](http://conversionxl.com/8-universal-web-design-principles-you-should-to-know/)
 
 [The Mathematical Symphony of Typography](http://www.pearsonified.com/2011/12/golden-ratio-typography.php)
@@ -9,9 +13,15 @@
 
 [Jonathan Ive - The Design Process of a Mac Book](https://www.youtube.com/watch?v=3q6ULOT9Q4M)
 
+### Tools
+
 [Atomic Designs](http://patternlab.io/)
 
 [Building Blocks from Zurb](http://zurb.com/building-blocks)
+
+## UX 
+
+[UX Techniques by Janne Jul Jensen](https://www.youtube.com/watch?v=7OSkB4BCx00)
 
 ## Misc
 
